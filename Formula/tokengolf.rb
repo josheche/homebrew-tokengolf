@@ -1,8 +1,8 @@
 class Tokengolf < Formula
   desc "Gamify your Claude Code sessions — track token efficiency, earn achievements"
   homepage "https://josheche.github.io/tokengolf/"
-  url "https://registry.npmjs.org/tokengolf/-/tokengolf-1.0.0.tgz"
-  sha256 "ce020ba930bb62c2d8c4d761821883ec45c47c9825ade69617e33d3b2beb3ee5"
+  url "https://registry.npmjs.org/tokengolf/-/tokengolf-1.0.1.tgz"
+  sha256 "d81354da49ffcf78dd87df3ecfb97638a8d2ba5d23c9f2e6b702cb586520f90f"
   license "MIT"
 
   depends_on "node"
